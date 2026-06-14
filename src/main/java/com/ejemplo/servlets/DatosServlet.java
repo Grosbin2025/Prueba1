@@ -29,7 +29,7 @@ public class DatosServlet extends HttpServlet {
         try {
             int edad = Integer.parseInt(edadStr);
             if (edad >= 18) {
-                out.println("<p>Eres mayor de edad.</p>");
+                out.println("<p>Eres mayor de edad wey.</p>");
             } else {
                 out.println("<p>Eres menor de edad.</p>");
             }

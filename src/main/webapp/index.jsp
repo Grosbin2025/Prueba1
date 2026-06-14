@@ -6,6 +6,7 @@
 </head>
 <body>
 <h2>Ingresa tus datos</h2>
+
 <form action="procesar" method="post">
 
     <label>Nombre:</label>

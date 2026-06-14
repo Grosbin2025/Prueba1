@@ -7,6 +7,7 @@
 <body>
 <h2>Ingresa tus datos</h2>
 <form action="procesar" method="post">
+
     <label>Nombre:</label>
     <input type="text" name="nombre" required><br><br>
 

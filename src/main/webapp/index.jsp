@@ -12,6 +12,7 @@
     <input type="text" name="nombre" required><br><br>
 
     <label>Edad:</label>
+
     <input type="number" name="edad" required><br><br>
 
     <input type="submit" value="Enviar">
